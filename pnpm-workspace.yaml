@@ -1,0 +1,7 @@
+packages:
+  - apps/client
+  - apps/docs
+  - packages/server
+  - packages/db
+  - packages/config/*
+  - packages/trcp-playground
